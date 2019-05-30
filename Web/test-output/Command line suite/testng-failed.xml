@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Command line suite]">
+  <test name="Command line test(failed)">
+    <classes>
+      <class name="HishtalmutTest.sanityFlow">
+        <methods>
+          <include name="settings"/>
+          <include name="LoginWithUser"/>
+          <include name="doAfter"/>
+        </methods>
+      </class> <!-- HishtalmutTest.sanityFlow -->
+      <class name="Gemel.GemelSanityFlow">
+        <methods>
+          <include name="settings"/>
+          <include name="doAfter"/>
+        </methods>
+      </class> <!-- Gemel.GemelSanityFlow -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [Command line suite] -->

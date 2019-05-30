@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="44296" started-at="2019-05-30T08:41:54Z" finished-at="2019-05-30T08:42:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="44296" started-at="2019-05-30T08:41:54Z" finished-at="2019-05-30T08:42:39Z">
+      <class name="LoginTest.SanityLogin">
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="setup" is-config="true" duration-ms="6187" started-at="2019-05-30T11:41:54Z" finished-at="2019-05-30T11:42:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC1()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="TC1" duration-ms="7443" started-at="2019-05-30T11:42:01Z" description="Sanity Login Test with Yossi" finished-at="2019-05-30T11:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="tearDown" is-config="true" duration-ms="117" started-at="2019-05-30T11:42:08Z" finished-at="2019-05-30T11:42:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="setup" is-config="true" duration-ms="4732" started-at="2019-05-30T11:42:08Z" finished-at="2019-05-30T11:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="Tc2()[pri:1, instance:LoginTest.SanityLogin@20d3d15a]" name="Tc2" duration-ms="7656" started-at="2019-05-30T11:42:13Z" description="Sanity Login Test with Deddi" finished-at="2019-05-30T11:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Tc2 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="tearDown" is-config="true" duration-ms="2116" started-at="2019-05-30T11:42:21Z" finished-at="2019-05-30T11:42:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="setup" is-config="true" duration-ms="5635" started-at="2019-05-30T11:42:23Z" finished-at="2019-05-30T11:42:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TC3()[pri:2, instance:LoginTest.SanityLogin@20d3d15a]" name="TC3" duration-ms="7981" started-at="2019-05-30T11:42:28Z" description="Sanity Login Test with Andrey" finished-at="2019-05-30T11:42:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="tearDown" is-config="true" duration-ms="2121" started-at="2019-05-30T11:42:36Z" finished-at="2019-05-30T11:42:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="doAfter()[pri:0, instance:LoginTest.SanityLogin@20d3d15a]" name="doAfter" is-config="true" duration-ms="287" started-at="2019-05-30T11:42:38Z" finished-at="2019-05-30T11:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doAfter -->
+      </class> <!-- LoginTest.SanityLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

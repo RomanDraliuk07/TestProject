@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+	<listener class-name="Utilities.Listeneres"/>
+</listeners>
+
+
+  <test thread-count="5" name="Login Sanity Flow">
+    <classes>
+      <class name="LoginTest.SanityLogin"/>
+    </classes>
+  </test>
+sanityFlow
+
+  <!--<test thread-count="5" name="Hishtalmut Sanity Flow">
+    <classes>
+      <class name="HishtalmutTest.sanityFlow"/>
+    </classes>
+  </test> 
+  <test thread-count="5" name="Gemel Sanity Flow">
+    <classes>
+      <class name="GemelTests.GemelSanityFlow"/>
+    </classes>
+  </test>
+
+  <test thread-count="5" name="Pension Sanity Flow">
+    <classes>
+      <class name="Pension.PensionSanity"/>
+    </classes>
+  </test>-->
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <!-- Test -->
+</suite> <!-- Suite -->
